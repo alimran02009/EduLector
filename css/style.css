@@ -1655,7 +1655,7 @@ p {
 }
 .singel-news .news-cont{}
 .singel-news .news-cont ul li{
-    display: inline-block;
+    display: none;
     margin-right: 25px;
 }
 .singel-news .news-cont ul li:last-child{
