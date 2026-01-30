@@ -1,4 +1,4 @@
-name: EduLector Sitemap
+name: EduLector Auto Sitemap
 
 on:
   push:
@@ -13,3 +13,4 @@ jobs:
       - uses: cicirello/generate-sitemap@v1
         with:
           base-url-path: https://edulector.loooooa.com
+          sitemap-file: sitemap.xml
