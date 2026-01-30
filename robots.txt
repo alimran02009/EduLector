@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Explicitly allow Google crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+# Sitemap location
+Sitemap: https://edulector.loooooa.com/sitemap.xml
